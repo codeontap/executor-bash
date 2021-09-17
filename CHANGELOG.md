@@ -1,6 +1,18 @@
 # Changelog
 
-## Unreleased (2021-09-12)
+## Unreleased (2021-09-17)
+
+#### Fixes
+
+* remove tag requirement
+* (ci): generate changelog on tag
+#### Others
+
+* changelog bump ([#233](https://github.com/hamlet-io/executor-bash/issues/233))
+
+Full set of changes: [`8.3.0...0fe0293`](https://github.com/hamlet-io/executor-bash/compare/8.3.0...0fe0293)
+
+## 8.3.0 (2021-09-10)
 
 #### New Features
 
@@ -48,7 +60,7 @@
 * remove access key handling
 * support generation credentials handling
 
-Full set of changes: [`8.2.1...cc9f61a`](https://github.com/hamlet-io/executor-bash/compare/8.2.1...cc9f61a)
+Full set of changes: [`8.2.1...8.3.0`](https://github.com/hamlet-io/executor-bash/compare/8.2.1...8.3.0)
 
 ## 8.2.1 (2021-07-09)
 
